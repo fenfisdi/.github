@@ -1,2 +1,2 @@
-# .github
-Repo to config templates ---> `.github/ISSUE_TEMPLATE`
+# GitHub config templates
+Repository to create config templates ---> `.github/ISSUE_TEMPLATE`
